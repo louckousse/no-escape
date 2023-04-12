@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "cipulot_parts")(type "KiCad")(uri "${KIPRJMOD}/cipulot_parts.kicad_sym")(options "")(descr ""))
+  (lib (name "lckprt")(type "KiCad")(uri "${KIPRJMOD}/kicad-parts/lckprt.kicad_sym")(options "")(descr ""))
+)
