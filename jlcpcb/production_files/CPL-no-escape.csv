@@ -7,7 +7,7 @@ C_3V-Decoup2,1u,C_0402_1005Metric,107.569,-91.059,135.0,bottom
 C_3V-Decoup3,.1u,C_0402_1005Metric,98.933,-99.949,315.0,bottom
 C_3V-Decoup4,.1u,C_0402_1005Metric,115.189,-89.662,90.0,bottom
 C_3V-Decoup5,.1u,C_0402_1005Metric,109.093,-103.378,225.0,bottom
-C_3V-Decoup6,.1u,C_0402_1005Metric,96.774,-96.774,0.0,bottom
+C_3V-Decoup6,.1u,C_0402_1005Metric,97.282,-96.139,0.0,bottom
 C_3V-Decoup7,.1u,C_0402_1005Metric,105.791,-90.17,45.0,bottom
 C_3V-Decoup8,.1u,C_0402_1005Metric,112.268,-100.457,225.0,bottom
 C_3V-Decoup9,.1u,C_0402_1005Metric,105.029,-90.932,45.0,bottom
@@ -70,7 +70,7 @@ R_Crystal1,1k,R_0402_1005Metric,99.822,-100.965,135.0,bottom
 R_DATA1,27,R_0402_1005Metric,50.165,-63.627,270.0,bottom
 R_DATA2,27,R_0402_1005Metric,49.022,-63.627,270.0,bottom
 R_Flash1,1k,R_0402_1005Metric,123.825,-83.185,270.0,bottom
-R_RST1,1k,R_0402_1005Metric,93.726,-93.726,0.0,bottom
+R_RST1,1k,R_0402_1005Metric,95.25,-97.155,0.0,bottom
 U1,RP2040,RP2040-QFN-56,106.197122,-98.425,45.0,bottom
 U2,XC6206PxxxMR,SOT-23,61.1355,-50.546,0.0,bottom
 U3,W25Q128JVS,SOIC-8_5.23x5.23mm_P1.27mm,123.825,-87.884,0.0,bottom

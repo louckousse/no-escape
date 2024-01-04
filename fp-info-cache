@@ -1,4 +1,4 @@
-21817760485459006
+21815420681926969
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90322,6 +90322,13 @@ QFN DFN_QFN
 57
 other
 silk
+
+
+0
+0
+0
+other
+silk2
 
 
 0

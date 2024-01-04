@@ -2,5 +2,5 @@
   (version 7)
   (lib (name "parts")(type "KiCad")(uri "${KIPRJMOD}/kicad-parts/parts.pretty")(options "")(descr ""))
   (lib (name "other")(type "KiCad")(uri "${KIPRJMOD}/other.pretty")(options "")(descr ""))
-  (lib (name "no-escape")(type "KiCad")(uri "/home/louckousse/Prog/keebs/pcb/no-escape")(options "")(descr ""))
+  (lib (name "no-escape")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr ""))
 )
